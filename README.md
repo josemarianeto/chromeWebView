@@ -7,5 +7,11 @@
 * o cliente tem uma restrição com o IE no qual o webview do c# roda então, rapidamente criei esse webview utilizando Electron o qual roda um chromium no build.
 
 
-<img src="./main Function.png">
+<img src="./main Function.png" width="400" height="300">
+
+## No arquivo index.js podera ser feito suas alterações de preferencias não esqueça de colocar a url do site na linha 9.
+
+
+### Depois disso Apenas execute os comandos npm install && npx electron-packager .  🎉😁🥳🎉
+
 

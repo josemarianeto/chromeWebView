@@ -7,5 +7,5 @@
 * o cliente tem uma restrição com o IE no qual o webview do c# roda então, rapidamente criei esse webview utilizando Electron o qual roda um chromium no build.
 
 
-
+<img src="./main Function.png">
 
